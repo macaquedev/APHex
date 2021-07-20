@@ -6,7 +6,7 @@ from adafruit_servokit import ServoKit
 from multiprocessing import Process
 from math import atan2, acos, asin, cos, sin, tan
 import hex_ik
-import timeit
+
 MG996R = 0
 SG90 = 1
 
