@@ -15,5 +15,5 @@ pip install -r requirements.txt
 cd ik
 python setup.py install
 cd ..
-python3 APHex_with_Joystick.py
+python APHex_with_Joystick.py
 ```
